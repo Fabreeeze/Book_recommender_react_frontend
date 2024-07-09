@@ -1,8 +1,8 @@
-#Book Recommender System - Frontend
+# Book Recommender System - Frontend
 
-##Frontend Repository (Next.js, React, TypeScript)
+## Frontend Repository (Next.js, React, TypeScript)
 
-###Overview
+### Overview
 
 This repository contains the frontend of a unique book recommendation system that leverages both the colors present in book covers and book titles to suggest similar books. The frontend is developed using Next.js, React, and TypeScript, providing a modern and responsive user interface.
 Features
@@ -11,7 +11,7 @@ Features
     Title Similarity Matching: Displays recommendations based on book title similarity.
     Responsive Design: Built with Next.js and React for a seamless user experience.
 
-###Technologies Used
+### Technologies Used
 
     ####Frontend:
         Next.js
@@ -19,13 +19,13 @@ Features
         TypeScript
         CSS (TailwindCSS, Bootstrap)
 
-###Getting Started
-####Prerequisites
+### Getting Started
+#### Prerequisites
 
     Node.js
     npm or yarn
 
-####Installation
+#### Installation
 
     Clone the Repository:
 
@@ -46,12 +46,12 @@ Features
 
     npm run dev
 
-####Usage
+#### Usage
 
     Enter Book Title, min. required rating and max cost cap along with the genre of the book
     View Recommendations: The system will display a list of recommended books based on the provided input.
 
-###Contributing
+### Contributing
 
 People are welcome to improve the project! To contribute:
 
