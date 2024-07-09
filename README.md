@@ -5,6 +5,8 @@
 ### Overview
 
 This repository contains the frontend of a unique book recommendation system that leverages both the colors present in book covers and book titles to suggest similar books. The frontend is developed using Next.js, React, and TypeScript, providing a modern and responsive user interface.
+
+The backend repository can be found at https://github.com/Fabreeeze/book-recommender-using-bookTitle-text-matching-and-book-cover-image-colour-analysis
 Features
 
     Color-Based Recommendations: Uses the dominant colors of book covers to find visually similar books.
@@ -31,8 +33,8 @@ Features
 
     In bash
 
-    git clone https://github.com/yourusername/book-recommender-frontend.git
-    cd book-recommender-frontend
+    git clone https://github.com/Fabreeeze/Book_recommender_react_frontend
+    cd Book_recommender_react_frontend
 
     Install Dependencies:
 
